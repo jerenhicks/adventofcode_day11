@@ -1,0 +1,14 @@
+C:\Users\Jeren\Documents\advent of code\advent of code day 11 - b\bin\Debug\net8.0\advent of code day 11 - b.exe
+C:\Users\Jeren\Documents\advent of code\advent of code day 11 - b\bin\Debug\net8.0\advent of code day 11 - b.deps.json
+C:\Users\Jeren\Documents\advent of code\advent of code day 11 - b\bin\Debug\net8.0\advent of code day 11 - b.runtimeconfig.json
+C:\Users\Jeren\Documents\advent of code\advent of code day 11 - b\bin\Debug\net8.0\advent of code day 11 - b.dll
+C:\Users\Jeren\Documents\advent of code\advent of code day 11 - b\bin\Debug\net8.0\advent of code day 11 - b.pdb
+C:\Users\Jeren\Documents\advent of code\advent of code day 11 - b\obj\Debug\net8.0\advent of code day 11 - b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeren\Documents\advent of code\advent of code day 11 - b\obj\Debug\net8.0\advent of code day 11 - b.AssemblyInfoInputs.cache
+C:\Users\Jeren\Documents\advent of code\advent of code day 11 - b\obj\Debug\net8.0\advent of code day 11 - b.AssemblyInfo.cs
+C:\Users\Jeren\Documents\advent of code\advent of code day 11 - b\obj\Debug\net8.0\advent of code day 11 - b.csproj.CoreCompileInputs.cache
+C:\Users\Jeren\Documents\advent of code\advent of code day 11 - b\obj\Debug\net8.0\advent of code day 11 - b.dll
+C:\Users\Jeren\Documents\advent of code\advent of code day 11 - b\obj\Debug\net8.0\refint\advent of code day 11 - b.dll
+C:\Users\Jeren\Documents\advent of code\advent of code day 11 - b\obj\Debug\net8.0\advent of code day 11 - b.pdb
+C:\Users\Jeren\Documents\advent of code\advent of code day 11 - b\obj\Debug\net8.0\advent of code day 11 - b.genruntimeconfig.cache
+C:\Users\Jeren\Documents\advent of code\advent of code day 11 - b\obj\Debug\net8.0\ref\advent of code day 11 - b.dll
